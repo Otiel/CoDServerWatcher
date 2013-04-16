@@ -25,12 +25,12 @@ Installation
     * `CoDServerWatcher.ini`
     * `qstat.exe`
     * `qstat.cfg`
-3. Run ``CoDServerWatcher.exe`.
+3. Run `CoDServerWatcher.exe`.
 
 Screenshots
 -----------
 
-![Systray icon](http://imgur.com/2xibQ4B)
+![Systray icon](http://i.imgur.com/2xibQ4B.png)
 ![Main form](http://i.imgur.com/pyBgJL5.png)
 
 Credits
@@ -41,4 +41,4 @@ CoDServerWatcher uses [QStat](http://sourceforge.net/projects/qstat/) to retriev
 Bugs/Ideas
 ----------
 
-If you have a bug to report, or simply an idea for an improvement, please add them in the [Issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
+If you have a bug to report, or simply an idea for an improvement or a new feature, please add them in the [Issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
