@@ -126,14 +126,15 @@
             // linkLabel
             // 
             this.linkLabel.ActiveLinkColor = System.Drawing.Color.Orange;
+            this.linkLabel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.linkLabel.AutoSize = true;
             this.linkLabel.LinkColor = System.Drawing.Color.White;
-            this.linkLabel.Location = new System.Drawing.Point(236, 34);
+            this.linkLabel.Location = new System.Drawing.Point(109, 32);
             this.linkLabel.Name = "linkLabel";
-            this.linkLabel.Size = new System.Drawing.Size(106, 13);
+            this.linkLabel.Size = new System.Drawing.Size(233, 13);
             this.linkLabel.TabIndex = 0;
             this.linkLabel.TabStop = true;
-            this.linkLabel.Text = "http://example.com";
+            this.linkLabel.Text = "https://github.com/Otiel/CoDServerWatcher";
             this.linkLabel.VisitedLinkColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             // 
             // FormAbout

@@ -10,7 +10,7 @@ namespace CoDServerWatcher {
         /// <summary>
         /// The contact website.
         /// </summary>
-        public static readonly String Website = "http://example.com"; // Create Git
+        public static readonly String Website = "https://github.com/Otiel/CoDServerWatcher";
 
         /// <summary>
         /// The path to the INI file.
