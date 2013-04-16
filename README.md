@@ -41,7 +41,7 @@ CoDServerWatcher uses [QStat](http://sourceforge.net/projects/qstat/) to retriev
 Bugs/Ideas
 ----------
 
-If you have a bug to report, or simply an idea for an improvement or a new feature, please add them in the [Issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
+If you have a bug to report, or simply an idea for an improvement or a new feature, please add them in the [issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
 
 License
 -------
