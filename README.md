@@ -14,7 +14,7 @@ Features
 --------
 
 * Shows current map, number of players and players list.
-* Enables you to quickly join the server, without going into the Call of Duty servers browser.
+* Enables you to quickly join a server, without going into the Call of Duty servers browser.
 * Enables you to automatically connect a full server as soon as a slot is free.
 * Runs in systray.
 
@@ -23,10 +23,10 @@ Installation
 
 1. If you simply don't care about the sources, [download](https://github.com/Otiel/CoDServerWatcher/archive/master.zip) the repository as a zip file and keep only the `Latest version` folder.
 2. Make sure the following files are located in the same folder:
-    * `CoDServerWatcher.exe`
-    * `CoDServerWatcher.ini`
-    * `qstat.exe`
-    * `qstat.cfg`
+    * `CoDServerWatcher.exe`,
+    * `CoDServerWatcher.ini`,
+    * `qstat.exe`,
+    * `qstat.cfg`.
 3. Run `CoDServerWatcher.exe`.
 
 Screenshots
