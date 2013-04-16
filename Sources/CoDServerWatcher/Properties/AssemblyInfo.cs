@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("CoD Server Watcher")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCopyright("https://github.com/Otiel/CoDServerWatcher")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
