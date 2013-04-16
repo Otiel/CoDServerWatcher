@@ -4,9 +4,9 @@ CoD Server Watcher
 Description
 -----------
 
-CoDServerWatcher is a systray application for **Windows** used to automatically connect a Call of Duty server when a slot is free.
+_CoDServerWatcher_ is a systray application for **Windows** used to automatically connect a Call of Duty server when a slot is free.
 
-CoDServerWatcher enables you to get details on a Call of Duty Multiplayer server without launching the game. The application runs in the system tray to be as less intrusive as possible.
+_CoDServerWatcher_ enables you to get details on a Call of Duty Multiplayer server without launching the game. The application runs in the system tray to be as less intrusive as possible.
 
 Features
 --------
@@ -36,12 +36,13 @@ Screenshots
 Credits
 -------
 
-CoDServerWatcher uses [QStat](http://sourceforge.net/projects/qstat/) to retrieve stats on the servers.
+_CoDServerWatcher_ uses [QStat](http://sourceforge.net/projects/qstat/) to retrieve stats on the servers.
 
 Bugs/Ideas
 ----------
 
 If you have a bug to report, or simply an idea for an improvement or a new feature, please add them in the [issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
+Don't forget to check the [wiki](https://github.com/Otiel/CoDServerWatcher/wiki) if you need some help.
 
 License
 -------
