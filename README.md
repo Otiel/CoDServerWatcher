@@ -4,7 +4,7 @@ CoD Server Watcher
 Description
 -----------
 
-CoDServerWatcher is a systray application used to automatically connect a Call of Duty server when a slot is free.
+CoDServerWatcher is a systray application for **Windows** used to automatically connect a Call of Duty server when a slot is free.
 
 CoDServerWatcher enables you to get details on a Call of Duty Multiplayer server without launching the game. The application runs in the system tray to be as less intrusive as possible.
 
