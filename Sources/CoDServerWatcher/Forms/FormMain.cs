@@ -210,10 +210,25 @@ namespace CoDServerWatcher {
                 return;
             }
 
+            // Stop the timer while we work
             this.refreshTimer.Stop();
 
+            // Save the host and the port in the INI file if they have changed
+            if (IniValues.Host != Program.Server.Host) {
+                IniFile iniFile = new IniFile(Constants.IniPath);
+                iniFile.WriteKey("Server", "Host", Program.Server.Host);
+                IniValues.Host = Program.Server.Host;
+            }
+            if (IniValues.Port != Program.Server.Port) {
+                IniFile iniFile = new IniFile(Constants.IniPath);
+                iniFile.WriteKey("Server", "Port", Program.Server.Port.ToString());
+                IniValues.Port = Program.Server.Port;
+            }
+
+            // Refresh the display
             RefreshDisplay();
 
+            // Now we can restart the timer
             if (refreshTimer != null) {
                 // If refreshTimer == null, it means that it has been disposed somewhere
                 this.refreshTimer.Start();
