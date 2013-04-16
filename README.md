@@ -42,3 +42,8 @@ Bugs/Ideas
 ----------
 
 If you have a bug to report, or simply an idea for an improvement or a new feature, please add them in the [Issue tracker](https://github.com/Otiel/CoDServerWatcher/issues).
+
+License
+-------
+
+CoDServerWatcher is licensed under the [WTFPL](http://www.wtfpl.net/).
