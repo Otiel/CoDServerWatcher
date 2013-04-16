@@ -33,6 +33,7 @@ Screenshots
 -----------
 
 ![Systray icon](http://i.imgur.com/2xibQ4B.png)
+
 ![Main form](http://i.imgur.com/pyBgJL5.png)
 
 Credits
