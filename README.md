@@ -49,4 +49,4 @@ Don't forget to check the [wiki](https://github.com/Otiel/CoDServerWatcher/wiki)
 License
 -------
 
-CoDServerWatcher is licensed under the ![WTFPL icon](http://i.imgur.com/AsWaQQl.png)[WTFPL](http://www.wtfpl.net/).
+CoDServerWatcher is licensed under the [WTFPL](http://www.wtfpl.net/) ![WTFPL icon](http://i.imgur.com/AsWaQQl.png).
