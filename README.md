@@ -8,7 +8,7 @@ _CoDServerWatcher_ is a systray application for Windows used to automatically co
 
 _CoDServerWatcher_ enables you to get details on a Call of Duty Multiplayer server without launching the game. The application runs in the system tray to be as less intrusive as possible.
 
-**Important**: I don't know if _CoDServerWatcher_ works with all versions of Call of Duty, I developed it for Call of Duty - Modern Warfare and tested only with Call of Duty - Modern Warfare.
+**Important**: I don't know if _CoDServerWatcher_ works with all versions of Call of Duty, I developed it for Call of Duty - Modern Warfare and tested only with Call of Duty - Modern Warfare (Call of Duty 4).
 
 Features
 --------
@@ -38,7 +38,7 @@ Screenshots
 Credits
 -------
 
-_CoDServerWatcher_ uses [QStat](http://sourceforge.net/projects/qstat/) to retrieve stats on the servers.
+_CoDServerWatcher_ uses [QStat](http://sourceforge.net/projects/qstat/) to retrieve statistics on the servers.
 
 Bugs/Ideas
 ----------
