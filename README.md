@@ -29,11 +29,10 @@ Installation
     * `qstat.cfg`.
 3. Run `CoDServerWatcher.exe`.
 
-Screenshots
------------
+Screenshot
+----------
 
-![Systray icon](http://i.imgur.com/2xibQ4B.png)
-![Main form](http://i.imgur.com/pyBgJL5.png)
+![Screenshot](http://i.imgur.com/nAAj2bi.png)
 
 Credits
 -------
