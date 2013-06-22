@@ -107,8 +107,8 @@ namespace CoDServerWatcher {
                             // Sometimes (probably due to the timer and the different threads), the datagridview 
                             // contains all the players in duplicate
                             // Make sure we refresh the datagridview with an empty datasource to clear it
-                            dataGridView.DataSource = null;
-                            dataGridView.Refresh();
+                            //dataGridView.DataSource = null;
+                            //dataGridView.Refresh();
 
                             dataGridView.DataSource = new List<Player>(Program.Server.Players);
                         });
