@@ -207,6 +207,11 @@ namespace CoDServerWatcher {
                 // Middle button
 
                 // Exit
+
+                // As the notify icon will stay until the user hover its mouse over it (well known Windows bug...), we 
+                // will "solve" this bug here by hiding the icon
+                // This will not solve the bug if the user kills our application of course, but that's a start
+                notifyIcon.Visible = false;
                 Application.Exit();
             }
         }
