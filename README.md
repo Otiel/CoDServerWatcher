@@ -21,7 +21,7 @@ Features
 Installation
 ------------
 
-1. If you simply don't care about the sources, [download](https://github.com/Otiel/CoDServerWatcher/archive/master.zip) the repository as a zip file and keep only the `Latest version` folder.
+1. If you simply don't care about the sources, download the last version from the [releases](https://github.com/Otiel/CoDServerWatcher/releases) page as a zip file.
 2. Make sure the following files are located in the same folder:
     * `CoDServerWatcher.exe`,
     * `CoDServerWatcher.ini`,
