@@ -18,8 +18,8 @@ Features
 * Enables you to automatically connect a full server as soon as a slot is free.
 * Runs in systray.
 
-Installation
-------------
+Usage
+-----
 
 1. If you simply don't care about the sources, download the latest version from the [releases](https://github.com/Otiel/CoDServerWatcher/releases) page as a zip file.
 2. Make sure the following files are located in the same folder:
@@ -34,8 +34,8 @@ Screenshot
 
 ![Screenshot](http://i.imgur.com/nAAj2bi.png)
 
-Credits
--------
+Dependencies
+------------
 
 _CoDServerWatcher_ uses [QStat](http://sourceforge.net/projects/qstat/) to retrieve statistics on the servers.
 
