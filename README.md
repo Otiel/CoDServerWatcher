@@ -1,5 +1,5 @@
-CoD Server Watcher
-==================
+![Logo](http://i.imgur.com/lco3XjN.png) CoD Server Watcher
+==========================================================
 
 Description
 -----------
