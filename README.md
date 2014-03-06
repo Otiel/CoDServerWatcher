@@ -21,7 +21,7 @@ Features
 Usage
 -----
 
-1. [Download](https://github.com/Otiel/CoDServerWatcher/releases/latest) the latest version from the page as a zip file.
+1. [Download](https://github.com/Otiel/CoDServerWatcher/releases/latest) the latest version from the releases page as a zip file.
 2. Make sure the following files are located in the same folder:
     * `CoDServerWatcher.exe`,
     * `CoDServerWatcher.ini`,
