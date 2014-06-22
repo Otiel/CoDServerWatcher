@@ -1,6 +1,8 @@
 ![Logo](http://i.imgur.com/lco3XjN.png) CoD Server Watcher
 ==========================================================
 
+[![Download](http://i.imgur.com/UjPs7Sr.png)](https://github.com/Otiel/CoDServerWatcher/releases/latest)
+
 Description
 -----------
 
